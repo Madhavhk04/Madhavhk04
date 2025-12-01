@@ -70,9 +70,10 @@
 ## 🧩 Featured Projects
 
 <table>
+
 <tr>
 <td><b>🔍 E-Commerce Recommendation System</b></td>
-<td>Built Spark MLlib ALS + KNN recommender, ETL pipelines, GenAI chatbot, and Power BI dashboards. Improved personalization by <b>30%</b>.</td>
+<td>Developed Spark MLlib ALS + KNN recommender, ETL pipelines, GenAI chatbot, and Power BI dashboards. Improved personalization by <b>30%</b>.</td>
 <td><b>Spark • Python • MLlib • TensorFlow • Power BI</b></td>
 </tr>
 
@@ -83,10 +84,28 @@
 </tr>
 
 <tr>
-<td><b>📊 Marketing Funnel Analytics</b></td>
-<td>Cleaned & integrated 20K+ records, built performance dashboards, and improved enrollment by <b>15%</b>.</td>
-<td><b>Python • PostgreSQL • Power BI</b></td>
+<td><b>✨ Ad Copy Generator (LLM-Powered)</b></td>
+<td>
+A web-based tool that uses LLMs to generate creative, humorous, and engaging ad content.  
+Accepts competitor problems or product features and outputs:
+<ul>
+<li>Instagram captions</li>
+<li>Meme-style punchlines</li>
+<li>15–30 sec video script ideas</li>
+<li>Reel audio punchlines</li>
+</ul>
+
+Features:
+<ul>
+<li>Built with Streamlit UI</li>
+<li>Runs fully on Google Colab</li>
+<li>Supports ngrok tunneling</li>
+<li>Uses few-shot prompting for humor & relatability</li>
+</ul>
+</td>
+<td><b>Gemini 1.5 Flash • LangChain • Streamlit • Colab • pyngrok</b></td>
 </tr>
+
 </table>
 
 ---
@@ -97,19 +116,7 @@
     <img src="https://img.shields.io/badge/OCI%20GenAI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/OCI%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/Azure%20DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Madhavhk04&theme=onedark&no-bg=true&margin-w=5" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Madhavhk04&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavhk04&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+    
 </p>
 
 ---
